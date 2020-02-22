@@ -1,0 +1,15 @@
+@charset "utf-8";
+.navbar-brand{
+    font-weight: 400;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+}
+footer{
+    padding-top: 30px;
+}
+img{
+    height: 300px;
+    width: 1100px;
+}
+.fas{
+    padding-right: 5px;
+}
